@@ -18,7 +18,7 @@ nav_order: 2
 <li>INFORMS Annual Meeting <span style="float:right">October 2023</span></li>
 <li>Internation Conference on Machine Learning <span style="float:right">July 2022</span></li>
     <ul>
-    <li>Learning stochastic shortest path with linear function approximation [<a href="/assets/pdf/slides/commuting_slides_workshop.pdf">slides</a>]</li>
+    <li>Learning stochastic shortest path with linear function approximation [<a href="assets/pdf/slides/commuting_slides_workshop.pdf">slides</a>]</li>
     <li>Implicit bias of gradient descent on reparametrized models: on equivalence to mirror descent [<a href="assets/pdf/slides/commuting_slides_workshop.pdf">slides</a>]</li>
     </ul>
 </ul>
