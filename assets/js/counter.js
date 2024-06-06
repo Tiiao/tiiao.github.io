@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){let e=document.querySelector("ol"),t=e.children.length;e.style.counterReset="list-counter "+(t+1)});
