@@ -1,34 +1,61 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Zhong":
+  - firstname: ["Xinyi"]
+    url: https://www.stat.yale.edu/~xz475/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Gu":
+  - firstname: ["Quanquan"]
+    url: http://web.cs.ucla.edu/~qgu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Li":
+  - firstname: ["Zhiyuan"]
+    url: https://www.cs.princeton.edu/~zl4/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Min":
+  - firstname: ["Yifei"]
+    url: https://scholar.google.com/citations?user=pFWnzL0AAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Xu":
+  - firstname: ["Ruitu"]
+    url: https://cims.nyu.edu/~rx262/
+  - firstname: ["Pan"]
+    url: https://panxu-ai.github.io
+  - firstname: ["Sheng"]
+    url: https://sx67.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Fan":
+  - firstname: ["Zhou"]
+    url: http://www.stat.yale.edu/~zf59/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Zhou":
+  - firstname: ["Dongruo"]
+    url: https://sites.google.com/view/drzhou
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Sun":
+  - firstname: ["Yi"]
+    url: https://yisun.io
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Wu":
+  - firstname: ["Yihong"]
+    url: http://www.stat.yale.edu/~yw562/
+
+"He":
+  - firstname: ["Jiafan"]
+    url: https://sites.google.com/g.ucla.edu/jiafan-he-homepage
+
+"Arora":
+  - firstname: ["Sanjeev"]
+    url: https://www.cs.princeton.edu/~arora/
+
+"Lederman":
+  - firstname: ["Roy R."]
+    url: https://roy.lederman.name
+
+"Yang":
+  - firstname: ["Zhuoran"]
+    url: https://www.princeton.edu/~zy6/
+
+"Wang":
+  - firstname: ["Zhaoran"]
+    url: https://zhaoranwang.github.io
+
+
