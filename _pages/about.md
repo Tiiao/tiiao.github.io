@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>6045 South Kenwood Ave<br>
     Chicago, IL 60637<br>
-    tianhao.wang@ttic.edu</p>
+    tianhao.wang@ttic.edu<br>
+    tianhaowang@ucsd.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
