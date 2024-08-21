@@ -8,6 +8,7 @@ nav_order: 2
 
 <h2 class="item">Talks</h2>
 <ul>
+<li><a href="https://www.fai-seminar.ac.cn">FAI seminar</a> <span style="float:right">August 2024</span></li>
 <li>Joint Statistical Meetings <span style="float:right">August 2024</span></li>
 <li>University of Notre Dame, ACMS Colloquium <span style="float:right">Feburary 2024</span></li>
 <li>UIUC, Statistics Seminar <span style="float:right">Feburary 2024</span></li>
