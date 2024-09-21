@@ -13,7 +13,7 @@ nav_order: 1
   <ul>
   <li>High-dimensional statistics and learning</li>
   <li>Deep learning theory</li>
-  <li>Data-driven decision making</li>
+  <li>Foundations of artificial intelligence</li>
   </ul>
   </span>
   <h2 class="pub">Preprints <span style="font-size:small">(*: equal contribution)</span></h2>
