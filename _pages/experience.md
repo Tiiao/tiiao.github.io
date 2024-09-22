@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience
-permalink: /experience/
+title: Others
+permalink: /others/
 nav: true
 nav_order: 2
 ---
@@ -45,8 +45,8 @@ nav_order: 2
 <h2 class="item">Professional service</h2>
 <h4>Conference reviewer</h4>
 <ul>
+<li>AAAI 2025</li>
 <li>AISTATS 2022, 2023, 2024</li>
-<li>ECML 2023</li>
 <li>ICLR 2023, 2024</li>
 <li>ICML 2022, 2023, 2024</li>
 <li>IEEE ITW 2023</li>
@@ -55,6 +55,8 @@ nav_order: 2
 </ul>
 <h4>Journal reviewer</h4>
 <ul>
+<li>Annals of Statistics</li>
 <li>IEEE Transactions on Information Theory</li>
-<li>The Annals of Statistics</li>
+<li>Journal of the American Statistical Association</li>
+<li>Random Matrices: Theory and Applications</li>
 </ul>
