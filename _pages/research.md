@@ -16,8 +16,8 @@ nav_order: 1
   <li>Foundations of artificial intelligence</li>
   </ul>
   </span>
-  <h2 class="pub">Preprints <span style="font-size:small">(*: equal contribution)</span></h2>
-  {% bibliography -f papers -q @*[preprint=true]* %}
   <h2 class="pub">Publications <span style="font-size:small">(*: equal contribution)</span></h2>
   {% bibliography -f papers -q @*[preprint=false]* %}
+  <h2 class="pub">Preprints <span style="font-size:small">(*: equal contribution)</span></h2>
+  {% bibliography -f papers -q @*[preprint=true]* %}
 </div>
