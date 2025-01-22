@@ -26,4 +26,4 @@ I obtained my Bachelor's degree in mathematics with a dual degree in computer sc
 
 **In 2025, I will join <a href="https://datascience.ucsd.edu">the Halıcıoğlu Data Science Institute</a> at UC San Diego as a tenure-track Assistant Professor.**
 
-**I will have PhD openings for Fall 2025. If you are interested, please apply to the PhD program in the Halıcıoğlu Data Science Institute at UC San Diego and mention my name in your application. Feel free to reach out to me via email.**
+**I have PhD openings for Fall 2025. If you are interested, please apply to the PhD program in the Halıcıoğlu Data Science Institute at UC San Diego and mention my name in your application. Feel free to reach out to me via email.**
