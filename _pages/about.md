@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page]
 ---
 
 I am a Research Assistant Professor in the <a href='https://www.ttic.edu'>Toyota Technological Institute at Chicago</a>.
-I am broadly interested in various aspects of statistics and machine learning theory.
+I am broadly interested in various aspects of machine learning, optimization, and statistics.
 
 Prior to TTIC, I received my Ph.D. from the <a href='https://statistics.yale.edu'>Department of Statistics and Data Science</a> at Yale University, where I was fortunate to be advised by <a href='http://www.stat.yale.edu/~zf59'>Zhou Fan</a>.
 I obtained my Bachelor's degree in mathematics with a dual degree in computer science at the University of Science and Technology of China.

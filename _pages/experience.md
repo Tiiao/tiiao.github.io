@@ -46,11 +46,11 @@ nav_order: 2
 <h4>Conference reviewer</h4>
 <ul>
 <li>AAAI 2025</li>
-<li>AISTATS 2022, 2023, 2024</li>
-<li>ICLR 2023, 2024</li>
-<li>ICML 2022, 2023, 2024</li>
+<li>AISTATS 2022, 2023, 2024, 2025</li>
+<li>ICLR 2023, 2024, 2025</li>
+<li>ICML 2022, 2023, 2024, 2025</li>
 <li>IEEE ITW 2023</li>
-<li>NeurIPS 2022, 2023</li>
+<li>NeurIPS 2022, 2023, 2024</li>
 <li>Reinforcement Learning Conference 2024</li>
 </ul>
 <h4>Journal reviewer</h4>
@@ -58,5 +58,7 @@ nav_order: 2
 <li>Annals of Statistics</li>
 <li>IEEE Transactions on Information Theory</li>
 <li>Journal of the American Statistical Association</li>
+<li>Mathematical Statistics and Learning</li>
 <li>Random Matrices: Theory and Applications</li>
+<li>Statistical Science</li>
 </ul>

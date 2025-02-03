@@ -12,8 +12,7 @@ nav_order: 1
   <span style="line-height:180%">
   <ul>
   <li>High-dimensional statistics and learning</li>
-  <li>Deep learning theory</li>
-  <li>Foundations of artificial intelligence</li>
+  <li>Optimization and deep learning theory</li>
   </ul>
   </span>
   <h2 class="pub">Publications <span style="font-size:small">(*: equal contribution)</span></h2>
