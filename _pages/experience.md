@@ -47,6 +47,7 @@ nav_order: 2
 <ul>
 <li>AAAI 2025</li>
 <li>AISTATS 2022, 2023, 2024, 2025</li>
+<li>COLT 2025</li>
 <li>ICLR 2023, 2024, 2025</li>
 <li>ICML 2022, 2023, 2024, 2025</li>
 <li>IEEE ITW 2023</li>
