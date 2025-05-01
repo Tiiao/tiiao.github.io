@@ -8,6 +8,7 @@ nav_order: 2
 
 <h2 class="item">Talks</h2>
 <ul>
+<li>Flatiron Institute, CCM ML Seminar <span style="float:right">April 2025</span></li>
 <li><a href="https://www.fai-seminar.ac.cn">FAI seminar</a> <span style="float:right">August 2024</span></li>
 <li>Joint Statistical Meetings <span style="float:right">August 2024</span></li>
 <li>University of Notre Dame, ACMS Colloquium <span style="float:right">Feburary 2024</span></li>
@@ -43,6 +44,10 @@ nav_order: 2
 </ul>
 
 <h2 class="item">Professional service</h2>
+<h4>Conference area chair</h4>
+<ul>
+<li>NeurIPS 2025</li>
+</ul>
 <h4>Conference reviewer</h4>
 <ul>
 <li>AAAI 2025</li>
