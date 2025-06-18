@@ -8,16 +8,20 @@ nav_order: 2
 
 <h2 class="item">Talks</h2>
 <ul>
+<li>International Conference on Continuous Optimization, Los Angeles <span style="float:right">July 2025</span></li>
+<li>Midwest Machine Learning Symposium, Chicago <span style="float:right">June 2025</span></li>
+<li>International Indian Statistical Association Conference, Lincoln <span style="float:right">June 2025</span></li>
+<li>Midwest Optimization & Statistical Learning Conference 2025 <span style="float:right">May 2025</span></li>
 <li>Flatiron Institute, CCM ML Seminar <span style="float:right">April 2025</span></li>
 <li><a href="https://www.fai-seminar.ac.cn">FAI seminar</a> <span style="float:right">August 2024</span></li>
-<li>Joint Statistical Meetings <span style="float:right">August 2024</span></li>
+<li>Joint Statistical Meetings, Portland <span style="float:right">August 2024</span></li>
 <li>University of Notre Dame, ACMS Colloquium <span style="float:right">Feburary 2024</span></li>
 <li>UIUC, Statistics Seminar <span style="float:right">Feburary 2024</span></li>
 <li>Columbia University, Statistics Seminar <span style="float:right">January 2024</span></li>
 <li>UC San Diego, Halıcıoğlu Data Science Institute Special Seminar Series <span style="float:right">January 2024</span></li>
 <li>UC Davis, Statistics Seminar <span style="float:right">January 2024</span></li>
 <li>UC San Diego, Department of Mathematics Colloquium <span style="float:right">December 2023</span></li>
-<li>INFORMS Annual Meeting <span style="float:right">October 2023</span></li>
+<li>INFORMS Annual Meeting, Phoenix <span style="float:right">October 2023</span></li>
 </ul>
 
 <h2 class="item">Teaching assistant</h2>
@@ -44,6 +48,10 @@ nav_order: 2
 </ul>
 
 <h2 class="item">Professional service</h2>
+<h4>Conference organizing committee</h4>
+<ul>
+<li>Midwest Optimization & Statistical Learning Conference 2025</li>
+</ul>
 <h4>Conference area chair</h4>
 <ul>
 <li>NeurIPS 2025</li>
@@ -63,8 +71,11 @@ nav_order: 2
 <ul>
 <li>Annals of Statistics</li>
 <li>IEEE Transactions on Information Theory</li>
+<li>Journal of Machine Learning Research</li>
 <li>Journal of the American Statistical Association</li>
+<li>Journal of the Royal Statistical Society, Series B</li>
 <li>Mathematical Statistics and Learning</li>
 <li>Random Matrices: Theory and Applications</li>
+<li>SIAM Journal on Mathematics of Data Science</li>
 <li>Statistical Science</li>
 </ul>
