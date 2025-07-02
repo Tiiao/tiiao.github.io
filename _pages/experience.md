@@ -48,7 +48,7 @@ nav_order: 2
 </ul>
 
 <h2 class="item">Professional service</h2>
-<h4>Conference organizing committee</h4>
+<h4>Organizing committee</h4>
 <ul>
 <li>Midwest Optimization & Statistical Learning Conference 2025</li>
 </ul>
