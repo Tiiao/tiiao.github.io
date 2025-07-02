@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tianhaowang.ttic.edu/sitemap.xml
+Sitemap: https://tiiao.github.io/sitemap.xml
