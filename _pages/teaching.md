@@ -9,7 +9,7 @@ nav_order: 1
 
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid currentColor;
   border-collapse: collapse;
   padding: 6px;
 }
