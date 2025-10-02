@@ -7,6 +7,13 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 6px;
+}
+</style>
 
 
 | Course name | Term |
