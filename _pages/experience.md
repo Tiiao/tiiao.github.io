@@ -55,6 +55,7 @@ nav_order: 2
 <h4>Conference area chair</h4>
 <ul>
 <li>NeurIPS 2025</li>
+<li>ICLR 2025</li>
 </ul>
 <h4>Conference reviewer</h4>
 <ul>
