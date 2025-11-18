@@ -24,7 +24,7 @@ nav_order: 3
 <li>INFORMS Annual Meeting, Phoenix <span style="float:right">October 2023</span></li>
 </ul>
 
-<h2 class="item">Teaching assistant</h2>
+<!-- <h2 class="item">Teaching assistant</h2>
 <ul>
 <li>High-dimensional phenomena in statistics and learning <span style="float:right">Spring 2023</span></li>
     <ul>
@@ -45,7 +45,7 @@ nav_order: 3
     <ul><li>Instructor: Joseph Chang</li></ul>
 <li>Stochstic Processes <span style="float:right">Spring 2019, 2020</span></li>
     <ul><li>Instructor: (2019) Sahand Negahban, Yihong Wu; (2020) Amin Karbasi</li></ul>
-</ul>
+</ul> -->
 
 <h2 class="item">Professional service</h2>
 <h4>Organizing committee</h4>
