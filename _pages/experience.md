@@ -55,17 +55,17 @@ nav_order: 3
 <h4>Conference area chair</h4>
 <ul>
 <li>NeurIPS 2025</li>
-<li>ICLR 2025</li>
+<li>ICLR 2025， 2026</li>
 </ul>
 <h4>Conference reviewer</h4>
 <ul>
 <li>AAAI 2025</li>
-<li>AISTATS 2022, 2023, 2024, 2025</li>
+<li>AISTATS 2022～2025</li>
 <li>COLT 2025</li>
-<li>ICLR 2023, 2024, 2025</li>
-<li>ICML 2022, 2023, 2024, 2025</li>
+<li>ICLR 2023～2025</li>
+<li>ICML 2022～2026</li>
 <li>IEEE ITW 2023</li>
-<li>NeurIPS 2022, 2023, 2024</li>
+<li>NeurIPS 2022～2024</li>
 <li>Reinforcement Learning Conference 2024</li>
 </ul>
 <h4>Journal reviewer</h4>
