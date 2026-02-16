@@ -8,6 +8,9 @@ nav_order: 3
 
 <h2 class="item">Talks</h2>
 <ul>
+<li>INFORMS Optimization Society Conference, Atlanta <span style="float:right">March 2026</span></li>
+<li>Mathematics of Information, Data, and Signals Seminar, UC San Diego <span style="float:right">November 2025</span></li>
+<li>HDSI Seminar, UC San Diego <span style="float:right">November 2025</span></li>
 <li>International Conference on Continuous Optimization, Los Angeles <span style="float:right">July 2025</span></li>
 <li>Midwest Machine Learning Symposium, Chicago <span style="float:right">June 2025</span></li>
 <li>International Indian Statistical Association Conference, Lincoln <span style="float:right">June 2025</span></li>
@@ -55,7 +58,7 @@ nav_order: 3
 <h4>Conference area chair</h4>
 <ul>
 <li>NeurIPS 2025</li>
-<li>ICLR 2025， 2026</li>
+<li>ICLR 2025, 2026</li>
 </ul>
 <h4>Conference reviewer</h4>
 <ul>
